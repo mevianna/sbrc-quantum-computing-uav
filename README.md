@@ -15,9 +15,16 @@ The following research questions were used to identify such gaps:
 - **RQ1:** What types of quantum-based approaches have been proposed to support collision avoidance in unmanned aerial vehicles?
 - **RQ2:** How do the proposed quantum-based approaches relate to the high-level strategies adopted by studies to address collision avoidance in unmanned aerial vehicles (e.g., path planning, trajectory planning, obstacle avoidance, or infrastructure-related optimization)?
 
-**Figure 1** presents the **PRISMA diagram** of the systematic review, providing an **overview** of the study selection process.
+Figure 1 below provides an overview of the study selection process.
 
-![PRISMA Diagram](prisma-diagram.jpg)
+<p align="center">
+  <img src="prisma-diagram.jpg" alt="PRISMA Diagram" width="700">
+</p>
+
+<p align="center">
+  <strong>Figure 1.</strong> PRISMA diagram illustrating the study selection process adopted in this systematic review.
+</p>
+
 
 
 The following links provide additional details that contribute to the reproducibility of this study:
