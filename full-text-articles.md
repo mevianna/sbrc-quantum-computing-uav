@@ -33,3 +33,52 @@
 |27 | Quantum-Driven UAV Path Planning Using QUBO Model and Coherent Ising Machines | 2025 | https://ieeexplore.ieee.org/document/11018976 |
 |28 | Quantum Multi-Agent Reinforcement Learning for Autonomous Mobility Cooperation | 2023 | https://ieeexplore.ieee.org/document/10232949 |
 
+## Excluded Studies (with Justification)
+
+| ID | Title | Year | Link | Reason for Exclusion |
+|----|-------|------|------|---------------------|
+| 1 | Quantum-Driven UAV Path Planning Using QUBO Model and Coherent Ising Machines | 2025 | https://ieeexplore.ieee.org/document/11018976 | Quantum-inspired approach |
+| 2 | A quantum Lévy flight optimization based peripheral YOLOv5 vision for scaling and optimizing autonomous train operations | 2024 | https://www.sciencedirect.com/science/article/pii/S0957417424013630 | Quantum-inspired approach |
+| 3 | Three-Dimensional Trajectory Planning of Unmanned Aerial Vehicles Based on Quantum Differential Search | 2014 | https://ieeexplore.ieee.org/document/6896611 | Quantum-inspired approach |
+| 4 | Vehicle Path Planning Based on Gradient Statistical Mutation Quantum Genetic Algorithm | 2023| https://thesai.org/Publications/ViewPaper?Volume=14&Issue=6&Code=IJACSA&SerialNo=64 | Quantum-inspired approach |
+| 5 | Quantum Wind Driven Optimization for Unmanned Combat Air Vehicle Path Planning | 2015 | https://www.mdpi.com/2076-3417/5/4/1457 | Quantum-inspired approach |
+| 6 | An Improved Artificial Potential Field Path Planning Based on Gradient Statistical Mutation Quantum Genetic Algorithm | 2024 | https://ieeexplore.ieee.org/document/10649028 | Quantum-inspired approach |
+| 7 | Local Path Planning for USV Based on Improved Quantum Particle Swarm Optimization | 2019 | https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8996961 | Quantum-inspired approach |
+| 8 | UAV Path Planning Method Based on Quantum Squirrel Search Algorithm | 2023 | https://ieeexplore.ieee.org/document/10215557 | Quantum-inspired approach |
+| 9 | Intelligent Data Fusion System for Predicting Vehicle Collision Warning Using Vision/GPS Sensing | 2010 | https://www.sciencedirect.com/science/article/pii/S0957417409006940 | Does not involve quantum computing |
+|10 | UAV Coverage Path Planning With Quantum-Based Recurrent Deep Deterministic Policy Gradient | 2023 | https://ieeexplore.ieee.org/document/10374227 | The trajectory planning is formulated exclusively for communication and energy optimization |
+|11 | Quantum Target Recognition Enhancement Algorithm for UAV Consumer Applications | 2024 | https://ieeexplore.ieee.org/document/10554650 | Quantum-inspired approach |
+|12 | Quantum Annealing Approach for the Optimal Realtime Traffic Control Using QUBO | 2021 | https://ieeexplore.ieee.org/document/9704985 | The study focuses on traffic light control and urban traffic optimization, which is outside the scope of UAV collision avoidance. |
+|13 | Fuzzy A* Quantum Multi-Stage Q-Learning Artificial Potential Field for Path Planning of Mobile Robots | 2025 | https://www.sciencedirect.com/science/article/pii/S0952197624020256 | Quantum-inspired approach |
+|14 | QNN-VRCS: A Quantum Neural Network for Vehicle Road Cooperation Systems | 2025 | https://ieeexplore.ieee.org/document/10887095 | The work addresses road traffic signal coordination. |
+|15 | Layerwise Quantum Deep Reinforcement Learning for Joint Optimization of UAV Trajectory and Resource Allocation | 2023 | https://ieeexplore.ieee.org/document/10153404 | Focuses on energy-efficient trajectory planning for a single UAV |
+|16 | An Online Path Planning Method Based on Hybrid Quantum Ant Colony Optimization for AUV | 2018 | https://www.actapress.com/PDFViewer.aspx?paperId=45817 | Quantum-inspired approach |
+|17 | Quantum Ant Colony Optimization Algorithm for AGVs Path Planning Based on Bloch Coordinates of Pheromones | 2018 | https://link.springer.com/article/10.1007/s11047-018-9711-0 | Quantum-inspired approach |
+|18 | Global Path Planning for Unmanned Surface Vehicle Based on Improved Quantum Ant Colony Algorithm | 2019 | https://onlinelibrary.wiley.com/doi/10.1155/2019/2902170 | Quantum-inspired approach |
+|19 | Path Planning for Critical ATM/UTM Areas | 2019 | https://ieeexplore.ieee.org/document/9081662 | Duplicate study already included in the final set of selected papers. |
+|20 | Quantum Annealing for the Mechanics of Robot Inspectors on Electrical Transmission Lines' Conductors | 2024 | https://ieeexplore.ieee.org/document/10896371 | Related to inspection robots operating on power-line towers; not applicable to UAVs. |
+|21 | Ridge Regressive Data Preprocessed Quantum Deep Belief Neural Network for Effective Trajectory Planning in Autonomous Vehicles | 2024 | https://onlinelibrary.wiley.com/doi/10.1155/2024/5948944 | Quantum-inspired approach |
+|22 | HV Penetrating Trajectory Planning Based on MPQMEA Algorithm | 2018 | https://ieeexplore.ieee.org/document/9018890 | Quantum-inspired approach |
+|23 | A Quantum Cryptographic Protocol for Secure Vehicular Communication | 2023 | https://ieeexplore.ieee.org/document/10287202 | Quantum techniques are applied solely to communication security and cryptography. |
+|24 | An Efficient Security Scheme for Vehicular Communication Using a Quantum Secret Sharing Method | 2019 | https://ieeexplore.ieee.org/document/8890829 | It focuses on traffic signaling, which is out of scope, and the quantum component is limited to secure communication. |
+|25 | Quantum Federated Reinforcement Learning-Based Joint Mode Selection and Resource Allocation for STAR-RIS-Aided VRCS | 2024 | https://ieeexplore.ieee.org/document/10684803 | The study focuses on vehicular communication optimization. |
+|26 | Traffic Clustering Algorithm of Urban Data Brain Based on Hybrid-Augmented Quantum Annealing Architecture | 2020 | https://ieeexplore.ieee.org/document/9087819 | The work addresses urban traffic analysis and taxi positioning, not autonomous vehicle collision avoidance. |
+|27 | Multi-Task Allocation of Multi-UAV Coalition Based on Improved Quantum Genetic Algorithm | 2021 | https://ieeexplore.ieee.org/document/9550641 | Quantum-inspired approach |
+|28 | Quantum Enhanced AI to Predict the Traffic Flow | 2024 | https://ieeexplore.ieee.org/document/10895839 | The study focuses on urban road traffic flow |
+|29 | Edge Cloud Assisted Quantum LSTM-Based Framework for Road Traffic Monitoring | 2024 | https://link.springer.com/article/10.1007/s13177-024-00424-1 | The study focuses on urban road traffic intensity prediction |
+|30 | High-Precision Underwater Perception and Path Planning of AUVs Based on Quantum-Enhanced Methods | 2024 | https://ieeexplore.ieee.org/document/10648928 | Quantum-inspired approach |
+|31 | Enhancing Multiple Object Tracking Accuracy via Quantum Annealing | 2024 | https://www.researchgate.net/publication/379676664_Enhancing_Multiple_Object_Tracking_Accuracy_via_Quantum_Annealing | The study focuses on tracking terrestrial vehicles for urban traffic analysis |
+|32 | Harnessing 6G Technology for Seamless Autonomous Vehicle Communication and Performance Enhancement | 2024 | https://ieeexplore.ieee.org/document/10823162 | The quantum component is limited to secure communication and does not address trajectory planning. |
+|33 | SVQCP: A Secure Vehicular Quantum Communication Protocol | 2024 | https://ieeexplore.ieee.org/document/10517668 | The study focuses on quantum cryptography for vehicular communication. |
+|34 | Quantum-Assisted Solution Paths for the Capacitated Vehicle Routing Problem | 2023 | https://ieeexplore.ieee.org/document/10313843 | The problem targets classical vehicle routing without autonomous navigation or collision avoidance. |
+|35 | Quantum Approaches for Vehicle Routing Optimization on NISQ Platforms | 2024 | https://ieeexplore.ieee.org/document/10918658 | The study addresses vehicle routing optimization without considering autonomous systems or collision avoidance. |
+|36 | Quantum Neural Networks and Their Potential in Traffic Prediction | 2023 | https://ieeexplore.ieee.org/document/10332762 | The work focuses on traffic prediction rather than motion planning or collision avoidance. |
+|37 | Multi-Robot Plume Source Localization Based on Swarm Evolution Mechanisms | 2021 | https://dl.acm.org/doi/10.1145/3473714.3473834 | The method is quantum-inspired and does not address collision avoidance. |
+|38 | Three-Phase Qubits-Based Quantum Ant Colony Optimization Algorithm for Path Planning of AGVs | 2019 | https://www.researchgate.net/publication/330297221 | The approach is quantum-inspired and targets automated guided vehicles. |
+|39 | Quantum-Entanglement Pigeon-Inspired Optimization for UAV Path Planning | 2021 | https://www.emerald.com/insight/content/doi/10.1108/AEAT-10-2020-0250/full/html | The algorithm is quantum-inspired and does not employ actual quantum computation. |
+|40 | Quantum-Computing-Driven Bat Algorithm for Optimization | 2025 | https://www.sciencedirect.com/science/article/pii/S0957417425013363 | The work proposes a quantum-inspired metaheuristic without genuine quantum computation. |
+|41 | Applying a Quantum Annealer to the Traffic Assignment Problem | 2024 | https://dl.acm.org/doi/10.1145/3638529.3654131 | The study addresses urban traffic assignment rather than autonomous vehicle navigation. |
+|42 | Quantum Shuttle: Traffic Navigation with Quantum Computing | 2020 | https://dl.acm.org/doi/10.1145/3412451.3428500 | The focus is on traffic navigation and scheduling, not collision avoidance. |
+|43 | Quantum Potential Speed-Up of Combinatorial Optimization Solvers for AUV Path Planning | 2022 | https://ieeexplore.ieee.org/document/9706114 | The full text was not available for detailed assessment. |
+|44 | Quantum Neural Networks for Enhanced Motion Prediction in Autonomous Vehicles | 2024 | https://ieeexplore.ieee.org/document/10920744 | The study focuses on motion prediction rather than trajectory planning or collision avoidance. |
+|45 | Large-Scale AGV Routing Based on Multi-FPGA SQA Acceleration | — | — | The approach is quantum-inspired and does not address autonomous aerial vehicles. |
