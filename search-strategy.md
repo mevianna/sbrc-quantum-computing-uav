@@ -32,5 +32,3 @@ OR "autonomous vehicles" OR "automated vehicle" OR "automated vehicles" OR "inte
 # Databases
 This study consulted the **IEEE Xplore**, **Web of Science**, and **ACM Guide to Computing Literature**, selected for their relevance and comprehensive coverage of the research topic. These sources provide broad and up-to-date access to the literature in engineering, computer science, and emerging technologies, supporting a rigorous and systematic analysis.
 
-## Application of the Search String Across Databases
-
