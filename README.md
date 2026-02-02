@@ -2,7 +2,7 @@
 This repository is a companion compendium to the SBRC article on quantum computing for UAV collision avoidance, providing detailed explanations of the adopted methodology, assumptions, and implementation aspects that could not be fully explored in the paper.
 
 # Systematic Review: Methodology
-This systematic mapping study follows the **Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA)** guidelines [1]. The objective is to characterize the state of the art on the use of quantum computing technologies to support collision avoidance in autonomous drones. The review adopts the SPIDER framework [2] to structure the analysis across heterogeneous study designs, focusing on how quantum principles contribute to UAV navigation and safety.
+This systematic mapping study follows the **Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA)** guidelines [1]. The objective is to characterize the state of the art on the use of quantum computing technologies to support collision avoidance in autonomous drones. The review adopts the **SPIDER framework** [2] to structure the analysis across heterogeneous study designs, focusing on how quantum principles contribute to UAV navigation and safety.
 
 - **Sample:** Studies on UAVs employing quantum-based approaches for navigation or collision avoidance.
 - **Phenomenon of Interest:** TThe application of quantum computing to collision avoidance in autonomous UAVs, considering perception, motion planning, and coordination tasks within a quantum–classical computational continuum.
@@ -14,6 +14,10 @@ This systematic mapping study follows the **Preferred Reporting Items for System
 The following research questions were used to identify such gaps:
 - **RQ1:** What types of quantum-based approaches have been proposed to support collision avoidance in unmanned aerial vehicles?
 - **RQ2:** How do the proposed quantum-based approaches relate to the high-level strategies adopted by studies to address collision avoidance in unmanned aerial vehicles (e.g., path planning, trajectory planning, obstacle avoidance, or infrastructure-related optimization)?
+
+**Figure 1** presents the **PRISMA diagram** of the systematic review, providing an **overview** of the study selection process.
+![PRISMA Diagram](prisma-diagram.pdf)
+
 
 The following links provide additional details that contribute to the reproducibility of this study:
 - Selected databases and applied search strings: [Database Search Strategy](search-strategy.md)
