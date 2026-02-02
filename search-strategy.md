@@ -1,8 +1,5 @@
-# Databases
-
-
 # Search String
-This study adopted a structured search strategy across the electronic databases to identify scientific articles on quantum-based 
+This study adopted a structured search strategy across three electronic databases to identify scientific articles on quantum-based 
 approaches for collision avoidance in UAVs. A comprehensive search string was applied across all databases to capture a wide range 
 of relevant terminology.
 
@@ -32,4 +29,8 @@ OR "autonomous vehicles" OR "automated vehicle" OR "automated vehicles" OR "inte
 "transportation system" OR "transportation systems" OR "multi-vehicle" OR "autonomous system" OR "autonomous systems" OR 
 "autonomous mobile robot" OR "autonomous mobile robots" OR "vehicle" OR "vehicles")
 
+# Databases
+This study consulted the **IEEE Xplore**, **Web of Science**, and **ACM Guide to Computing Literature**, selected for their relevance and comprehensive coverage of the research topic. These sources provide broad and up-to-date access to the literature in engineering, computer science, and emerging technologies, supporting a rigorous and systematic analysis.
+
+## Application of the Search String Across Databases
 
