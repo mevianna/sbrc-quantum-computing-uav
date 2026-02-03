@@ -18,7 +18,7 @@ The following research questions were used to identify such gaps:
 Figure 1 below provides an overview of the study selection process.
 
 <p align="center">
-  <img src="prisma-diagram.jpg" alt="PRISMA Diagram" width="700">
+  <img src="img/prisma-diagram.jpg" alt="PRISMA Diagram" width="700">
 </p>
 
 <p align="center">
