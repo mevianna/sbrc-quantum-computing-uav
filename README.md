@@ -1,5 +1,5 @@
 # sbrc-quantum-computing-uav
-This repository is a companion compendium to the SBRC article on quantum computing for UAV collision avoidance, providing detailed explanations of the adopted methodology, assumptions, and implementation aspects that could not be fully explored in the paper.
+This repository complements the SBRC article on quantum computing for UAV collision avoidance by providing further details on the adopted methodology and assumptions.
 
 # Systematic Review: Methodology
 This systematic mapping study follows the **Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA)** guidelines [1]. The objective is to characterize the state of the art on the use of quantum computing technologies to support collision avoidance in autonomous drones. The review adopts the **SPIDER framework** [2] to structure the analysis across heterogeneous study designs, focusing on how quantum principles contribute to UAV navigation and safety.
