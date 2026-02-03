@@ -1,3 +1,18 @@
+# Eligibility Criteria
+
+## Inclusion Criteria
+- Primary studies addressing quantum-based collision avoidance in autonomous systems.
+- Studies that partially or fully answer the research questions.
+- Studies focusing on autonomous UAVs or, more broadly, on autonomous vehicles sharing similar computational challenges (e.g., perception, planning, decision-making).
+- Studies indirectly related to collision avoidance but that integrate quantum computing into the computational pipeline with potential benefits for latency reduction and collision prevention.
+
+## Exclusion Criteria
+- Studies focused exclusively on non-UAV contexts, such as traffic signaling or infrastructure control without a multi-agent or collaborative autonomy perspective.
+- Quantum-inspired approaches that draw inspiration from quantum mechanics but do not involve genuine quantum computation, as they rely solely on classical processing and do not employ qubits, quantum states, or quantum circuit execution on quantum hardware or quantum simulators.
+- Studies in which quantum technologies are applied solely to communication security or cryptography.
+- Studies outside the scope of autonomous systems or collision avoidance.
+- Non-primary studies (e.g., surveys, books).
+
 # Full-Text Assessment
 
 ## Included Studies
