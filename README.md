@@ -29,8 +29,7 @@ Figure 1 below provides an overview of the study selection process.
 
 The following links provide additional details that contribute to the reproducibility of this study:
 - Selected databases and applied search strings: [Database Search Strategy](search-strategy.md)
-- Inclusion and exclusion criteria: [Eligibility Criteria and Full-Text Assessment](eligibility-criteria-and-full-text-assessment.md)
-- Table with all articles assessed in the full-text stage (included and excluded): [Full-Text Articles Table](full-text-articles.md)
+- Inclusion and exclusion criteria and full-text stage articles: [Eligibility Criteria and Full-Text Assessment](eligibility-criteria-and-full-text-assessment.md)
 
 # References
 [1] M. J. Page *et al*., “The PRISMA 2020 statement: an updated guideline for reporting systematic reviews,” *BMJ*, vol. 372, n71, 2021.
