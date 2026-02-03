@@ -31,7 +31,7 @@ This study consulted the **IEEE Xplore**, **Web of Science**, and **ACM Digital 
 
 ### IEEE Xplore
 For **IEEE Xplore**, the complete search string was applied as a single query using the standard search interface, without relying on advanced search options. All conceptual blocks were therefore considered simultaneously during retrieval.  
-IEEE Xplore is avaliable at: https://ieeexplore.ieee.org/Xplore/home.jsp
+IEEE Xplore is avaliable at: [IEEE Xplore Link](https://ieeexplore.ieee.org/Xplore/home.jsp)
 
 ### ACM Digital Library
 The ACM Digital Library provides two main search interfaces: the ACM Guide to Computing Literature and the ACM Full-Text Collection. In this study, searches were conducted using the **ACM Guide to Computing Literature**, as it offers broader coverage, including indexed records beyond ACM-published full texts.
@@ -48,8 +48,11 @@ The **Advanced Search** interface was employed. The search string was divided ac
 
 Additionally, the **Research Article filter** was applied to restrict the results to peer-reviewed research publications.
 
-ACM Digital Library is avaliable at: https://dl.acm.org/
+ACM Digital Library is avaliable at: [ACM Digital Library link](https://dl.acm.org/)
 
 ### Web of Science
 For Web of Science, the search string was also separated according to the Boolean AND operators, using a similar approach to that adopted for the ACM Digital Library.
 
+Web of Science is avaliable at: [Web of Science link](https://clarivate.com/academia-government/scientific-and-academic-research/research-discovery-and-referencing/web-of-science/)
+
+However, access is typically provided through institutional subscriptions, such as the CAPES Portal in Brazil.
