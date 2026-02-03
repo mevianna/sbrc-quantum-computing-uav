@@ -5,10 +5,10 @@ This repository complements the SBRC article on quantum computing for UAV collis
 This systematic mapping study follows the **Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA)** guidelines [1]. The objective is to characterize the state of the art on the use of quantum computing technologies to support collision avoidance in autonomous drones. The review adopts the **SPIDER framework** [2] to structure the analysis across heterogeneous study designs, focusing on how quantum principles contribute to UAV navigation and safety.
 
 - **Sample:** Studies on UAVs employing quantum-based approaches for navigation or collision avoidance.
-- **Phenomenon of Interest:** TThe application of quantum computing to collision avoidance in autonomous UAVs, considering perception, motion planning, and coordination tasks within a quantum–classical computational continuum.
+- **Phenomenon of Interest:** The application of quantum computing to collision avoidance in autonomous UAVs, considering perception, motion planning, and coordination tasks within a quantum–classical computational continuum.
 - **Information Sources:** Peer-reviewed journal articles and conference papers in English indexed in IEEE Xplore, ACM and Web of Science.
 - **Design:** Quantitative, qualitative, simulation-based, and theoretical studies addressing quantum-enhanced collision avoidance methods.
-- **Evaluation:** Assessments linking quantum principles (e.g., superposition, entanglement, annealing) to avoidance performance and decision robustness.
+- **Evaluation:** Assessments linking quantum principles (e.g., superposition, entanglement) to avoidance performance and decision robustness.
 - **Research Type:** Primary studies, including experimental, simulation-driven, and hybrid quantum--classical approaches.
 
 The following research questions were used to identify such gaps:
